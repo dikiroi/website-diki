@@ -84,7 +84,7 @@ body {
 }
 .foto {
     height: 400px;
-    background-image: url(../TEST/bunga.jpg);
+    background-image: url(VSCODE/TEST/bunga.jpg);
     background-size: cover;
     background-position: 0 -380px;
     border-top: 4px solid rgb(134, 230, 89);
